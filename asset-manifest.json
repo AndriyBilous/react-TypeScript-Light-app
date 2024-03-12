@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-TypeScript-Light-app/static/css/main.af8657fe.css",
+    "main.js": "/react-TypeScript-Light-app/static/js/main.50263d11.js",
+    "index.html": "/react-TypeScript-Light-app/index.html",
+    "main.af8657fe.css.map": "/react-TypeScript-Light-app/static/css/main.af8657fe.css.map",
+    "main.50263d11.js.map": "/react-TypeScript-Light-app/static/js/main.50263d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8657fe.css",
+    "static/js/main.50263d11.js"
+  ]
+}
